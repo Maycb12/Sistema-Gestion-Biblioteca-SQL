@@ -19,7 +19,7 @@ El sistema gestiona 4 entidades principales:
 * **Consultas Avanzadas:** Reportes usando `INNER JOIN` para ver historiales de préstamos y libros pendientes de devolución.
 
 ## Cómo instalar
-1. Descarga el archivo `Proyecto_Biblioteca.sql`.
+1. Descarga el archivo `Dump`.
 2. Abre MySQL Workbench.
 3. Ve a `File > Open SQL Script` y selecciona el archivo.
 4. Ejecuta el script completo (Icono del rayo).
